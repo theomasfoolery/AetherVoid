@@ -1,0 +1,8 @@
+# TempleOS specific
+*.ISO
+*.ISO.C
+*.BIN
+/TOS_Internal/
+
+# Generic
+.DS_Store
